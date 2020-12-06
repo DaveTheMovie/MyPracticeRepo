@@ -1,0 +1,6 @@
+
+
+import My7File
+
+assert My7File.MyReturn7() == 7
+
